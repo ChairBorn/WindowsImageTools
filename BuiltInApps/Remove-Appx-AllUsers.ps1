@@ -49,7 +49,7 @@ Microsoft.WebMediaExtensions
 Microsoft.WebpImageExtension
 Microsoft.Windows.Photos
 Microsoft.WindowsAlarms
-Microsoft.WindowsCalculator
+#Microsoft.WindowsCalculator
 Microsoft.WindowsCamera
 microsoft.windowscommunicationsapps
 Microsoft.WindowsFeedbackHub
@@ -57,7 +57,7 @@ Microsoft.WindowsMaps
 Microsoft.WindowsNotepad
 Microsoft.WindowsSoundRecorder
 Microsoft.WindowsStore
-Microsoft.WindowsTerminal
+#Microsoft.WindowsTerminal
 Microsoft.Xbox.TCUI
 Microsoft.XboxGameOverlay
 Microsoft.XboxGamingOverlay
@@ -66,7 +66,7 @@ Microsoft.XboxSpeechToTextOverlay
 Microsoft.YourPhone
 Microsoft.ZuneMusic
 Microsoft.ZuneVideo
-MicrosoftTeams
+#MicrosoftTeams
 MicrosoftWindows.Client.WebExperience
 #>
 
